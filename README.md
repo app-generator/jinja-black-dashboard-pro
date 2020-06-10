@@ -11,6 +11,11 @@
 
 - [Jinja2 Theme - Black Dashboard PRO](https://theme-jinja2-black-dashboard-pro.appseed.us/) - LIVE Demo
 
+> Used by
+
+- [Flask Dashboard Black PRO](https://appseed.us/admin-dashboards/django-dashboard-black-pro)
+- [Django Dashboard Black PRO](https://appseed.us/admin-dashboards/django-dashboard-black-pro)
+
 <br />
 
 ## UI Kit - [Black Dashboard PRO](https://themes.getbootstrap.com/product/black-dashboard-pro-premium-bootstrap-4-admin/)
