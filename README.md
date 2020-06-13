@@ -13,7 +13,7 @@
 
 > Used by
 
-- [Flask Dashboard Black PRO](https://appseed.us/admin-dashboards/django-dashboard-black-pro)
+- [Flask Dashboard Black PRO](https://appseed.us/admin-dashboards/flask-dashboard-black-pro)
 - [Django Dashboard Black PRO](https://appseed.us/admin-dashboards/django-dashboard-black-pro)
 
 <br />
