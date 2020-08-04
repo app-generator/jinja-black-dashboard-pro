@@ -1,4 +1,4 @@
-# [Jinja2 Theme - Black Dashboard PRO](https://theme-jinja2-black-dashboard-pro.appseed.us/)
+# [Jinja2 Template - Black Dashboard PRO](https://theme-jinja2-black-dashboard-pro.appseed.us/)
 
 > Template Theme provided by [AppSeed](https://appseed.us) - Features:
 
@@ -191,4 +191,4 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 <br />
 
 ---
-[Jinja2 Theme - Black Dashboard PRO](https://theme-jinja2-black-dashboard-pro.appseed.us/) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Jinja2 Template - Black Dashboard PRO](https://theme-jinja2-black-dashboard-pro.appseed.us/) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
