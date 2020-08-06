@@ -1,4 +1,4 @@
-# [Jinja2 Template - Black Dashboard PRO](https://theme-jinja2-black-dashboard-pro.appseed.us/)
+# [Jinja Template - Black Dashboard PRO](https://theme-jinja2-black-dashboard-pro.appseed.us/)
 
 > Template Theme provided by [AppSeed](https://appseed.us) - Features:
 
@@ -30,7 +30,7 @@ If you are looking for a tool to manage and visualize data about your business, 
 
 <br />
 
-![Jinja2 Theme - Black Dashboard PRO - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/theme-jinja2-black-dashboard-pro/master/media/theme-jinja2-black-dashboard-pro-screen.png)
+![Jinja Template - Black Dashboard PRO.](https://raw.githubusercontent.com/app-generator/theme-jinja2-black-dashboard-pro/master/media/theme-jinja2-black-dashboard-pro-screen.png)
 
 <br />
 
@@ -191,4 +191,4 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 <br />
 
 ---
-[Jinja2 Template - Black Dashboard PRO](https://theme-jinja2-black-dashboard-pro.appseed.us/) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Jinja Template - Black Dashboard PRO](https://theme-jinja2-black-dashboard-pro.appseed.us/) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
